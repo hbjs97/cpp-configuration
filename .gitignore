@@ -1,0 +1,6 @@
+Makefile
+CMakeCache.txt
+*.cmake
+build/
+CMakeFiles/
+main.dSYM/

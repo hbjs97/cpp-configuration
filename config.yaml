@@ -1,0 +1,14 @@
+vision:
+  param1: vision_param1
+  child:
+    param2: vision_param2
+    param3: 3
+  position:
+    x: 123.1
+    y: 101.2142
+  list:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
